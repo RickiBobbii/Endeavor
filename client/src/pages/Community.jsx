@@ -28,7 +28,7 @@ export default function Community() {
   };
 
   return (
-    <div className="overflow-x-hidden">
+    <div className="h-screen overflow-x-hidden">
       <div className="px-6 py-8">
         <h1 className="pb-5 pt-3 text-center text-2xl font-bold text-zinc-200 md:text-3xl">
           {community.name} Community
